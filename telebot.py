@@ -4,7 +4,7 @@ import datetime
 import os
 
 # ---------------- CONFIG ----------------
-TOKEN = "8724808752:AAEmeMS4l4EuLQps07iCu0VXrLPy4hT-N3sN"
+TOKEN = "8724808752:AAEmeMS4l4EuLQps07iCu0VXrLPy4hT-N3s"
 OWNER_ID = 8342806850  # Replace with your Telegram ID
 
 # ---------------- PRODUCTS ----------------
